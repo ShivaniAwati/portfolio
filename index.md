@@ -4,7 +4,7 @@ title: "Shivani Awati"
 subtitle: "Data Analytics • Data Science • Cloud (AWS, Oracle)"
 excerpt: "Turning complex datasets into clean insights, reliable pipelines, and decision-ready dashboards."
 header:
-  overlay_color: "38bdf8"   # sky blue
+  overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.15
   overlay_image: /assets/img/hero-gradient.jpg
 feature_row:
