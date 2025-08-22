@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /assets/Shivani_Awati_Resume.pdf   # add the PDF later
