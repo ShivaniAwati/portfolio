@@ -4,7 +4,7 @@ url: "https://shivaniawati.github.io"   # no trailing slash
 baseurl: "/portfolio"                    # if you ever move to root, change to ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: aqua
 
 markdown: kramdown
 permalink: pretty
