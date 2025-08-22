@@ -6,8 +6,7 @@ excerpt: "Turning complex datasets into clean insights, reliable pipelines, and 
 header:
   overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.15
-  # comment the next line out if you don't have this file yet
-  # overlay_image: /assets/img/hero-gradient.jpg
+  # overlay_image: "{{ site.baseurl }}/assets/img/hero-gradient.jpg"
 
 feature_row:
   - title: "Topic Modeling on Cybersecurity & Privacy"
@@ -32,28 +31,12 @@ feature_row2:
     url: /projects/#resume-scorer--skill-gap-aws
     btn_label: "View project"
     btn_class: "btn--primary"
-
-
-## Education
-<ul class="compact-list">
-  <li><strong>M.S. in Information Systems</strong>, The University of Texas at Arlington — <em>Completed</em></li>
-  <li><strong>B.S. in Computer Science</strong>, Shivaji University — <em>2021</em></li>
-</ul>
-
-## Certifications & Publications
-<ul class="compact-list">
-  <li><strong>Certifications: </strong>IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies 
-    • Certified ‘Graduate Business Analyst’ from ‘The University of Texas at Arlington’ </li>
-  <li><strong>Publications/Posters: </strong>Topic Modeling & Network Analysis of Cybersecurity/Privacy Literature (UTA Poster, 2025)
-Published research paper titled “Web-Controlled Robot” in the International Journal of Scientific Research in Engineering and Management (IJSREM) </li>
-</ul>
-
 ---
 
 <!-- Profile block -->
 <div style="display:flex; gap:18px; align-items:center; flex-wrap:wrap; margin: 1.25rem 0;">
   <img src="{{ site.baseurl }}/assets/img/shivani-photo.jpg" alt="Shivani Awati"
-     style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
+       style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
   <div>
     <strong>Shivani Awati</strong><br/>
     Data Analytics & Data Science — Python • SQL • Power BI • AWS • Oracle Cloud<br/>
@@ -67,7 +50,9 @@ Published research paper titled “Web-Controlled Robot” in the International 
 {% include feature_row id="feature_row2" %}
 
 ## Education
-{% include feature_row id="education_row" type="left" %}
+- **M.S. in Information Systems**, The University of Texas at Arlington — *Completed*
+- **B.S. in Computer Science**, Shivaji University — *2021*
 
 ## Certifications & Publications
-{% include feature_row id="certs_row" type="left" %}
+- **Certifications:** IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies • Certified “Graduate Business Analyst” (UTA)
+- **Publications/Posters:** Topic Modeling & Network Analysis of Cybersecurity/Privacy (UTA Poster, 2025); “Web-Controlled Robot,” *IJSREM*
