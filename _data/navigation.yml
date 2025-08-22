@@ -4,4 +4,4 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resume"
-    url: /assets/Shivani_Awati_Resume.pdf   # add the PDF later
+    url: /resume/  # add the PDF later
