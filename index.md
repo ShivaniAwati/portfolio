@@ -34,7 +34,6 @@ feature_row2:
     btn_class: "btn--primary"
 
 
-
 ## Education
 <ul class="compact-list">
   <li><strong>M.S. in Information Systems</strong>, The University of Texas at Arlington — <em>Completed</em></li>
