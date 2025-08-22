@@ -24,13 +24,13 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-HANDLE"
+      url: "https://www.linkedin.com/in/shivani-awati"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/shivaniawati"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:YOUR_EMAIL"
+      url: "mailto:Shivaniawati87@gmail.com"
 
 # Optional: keep README out of the site build
 exclude:
