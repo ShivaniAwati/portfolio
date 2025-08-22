@@ -1,2 +1,34 @@
-Title: Shivani Awati
-theme: jekyll-theme-minimal
+title: Shivani Awati
+description: Data Analytics • Data Science • Cloud
+url: https://shivaniawati.github.io
+baseurl: /portfolio
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Choose a colorful skin: air | aqua | neon | mint | sunrise | contrast
+minimal_mistakes_skin: aqua
+
+author:
+  name: Shivani Awati
+  location: DFW / Remote
+  links:
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://linkedin.com/in/YOUR-HANDLE
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/shivaniawati
+
+# Navigation
+header:
+  nav:
+    - title: About
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: Resume
+      url: /resume/
