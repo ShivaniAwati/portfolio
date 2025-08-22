@@ -33,23 +33,16 @@ feature_row2:
     btn_label: "View project"
     btn_class: "btn--primary"
 
-education_row:
-  - title: "M.S. in Information Systems"
-    excerpt: "The University of Texas at Arlington — Completed"
-  - title: "B.S. in Computer Science"
-    excerpt: "Shivaji University — 2021"
+## Education
+- **M.S. in Information Systems**, The University of Texas at Arlington — *Completed*
+- **B.S. in Computer Science**, Shivaji University — *2021*
 
-certs_row:
-  - title: "Certifications"
-    excerpt: "<ul>
-      <li>IBM Data Science (Coursera)</li>
-      <li>Oracle Learning – Generative AI</li>
-      <li>Databricks Certified Data Scientist Professional (in progress)</li>
-    </ul>"
-  - title: "Publications / Posters"
-    excerpt: "<ul>
-      <li>Topic Modeling & Network Analysis of Cybersecurity/Privacy Literature (UTA Poster, 2025)</li>
-    </ul>"
+## Certifications & Publications
+- **Certifications:** IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies • Certified ‘Graduate Business Analyst’ from ‘The University of Texas at Arlington’*
+- **Publications/Posters:** Topic Modeling & Network Analysis of Cybersecurity/Privacy Literature (UTA Poster, 2025)
+- **Published research paper titled “Web-Controlled Robot” in the International Journal of Scientific Research in Engineering and Management (IJSREM)
+
+
 ---
 
 <!-- Profile block -->
