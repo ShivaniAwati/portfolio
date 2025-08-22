@@ -19,7 +19,7 @@ plugins:
 
 author:
   name: "Shivani Awati"
-  avatar: /assets/img/shivani-photo.jpg
+  avatar: /portfolio/assets/img/shivani-photo.jpg
   bio: "Data Analytics & Data Science • Python • SQL • Power BI • AWS • Oracle Cloud"
   location: "DFW • Remote"
   links:
