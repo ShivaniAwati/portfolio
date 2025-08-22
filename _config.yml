@@ -1,34 +1,72 @@
-title: Shivani Awati
-description: Data Analytics • Data Science • Cloud
-url: https://shivaniawati.github.io
-baseurl: /portfolio
+title: "Shivani Awati"
+description: "Data Analytics • Data Science • Cloud (AWS, Oracle)"
+url: "https://shivaniawati.github.io"   # no trailing slash
+baseurl: "/portfolio"                    # "" if site is at root (shivaniawati.github.io)
+
+# Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: neon
+
+# Build
+markdown: kramdown
+permalink: pretty
+paginate: 5
+
+# Plugins (all supported by GitHub Pages / Actions)
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
 
-# Choose a colorful skin: air | aqua | neon | mint | sunrise | contrast
-minimal_mistakes_skin: aqua
-
+# Author profile (shows in footer/SEO)
 author:
-  name: Shivani Awati
-  location: DFW / Remote
+  name: "Shivani Awati"
+  avatar: # e.g., /assets/img/avatar.jpg
+  bio: "Data Analytics & Data Science • Python • SQL • Power BI • AWS • Oracle Cloud"
+  location: "DFW • Remote"
   links:
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://linkedin.com/in/YOUR-HANDLE
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/shivaniawati
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-HANDLE"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/shivaniawati"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:YOUR_EMAIL"
 
-# Navigation
+# Top navigation
 header:
   nav:
-    - title: About
-      url: /
-    - title: Projects
-      url: /projects/
-    - title: Resume
-      url: /resume/
+    - title: "About"
+      url: "/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Resume"
+      url: "/assets/Shivani_Awati_Resume.pdf"   # add later or change link
+
+# Footer social icons
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-HANDLE"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/shivaniawati"
+
+# Defaults (page layout)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+
+# SEO
+seo:
+  type: Person
+  name: "Shivani Awati"
+
