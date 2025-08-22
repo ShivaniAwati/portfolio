@@ -30,7 +30,11 @@ toc_sticky: true
 
 ---
 
-## Resume Screening & Keyword Gap Analyzer (AWS)
-**Stack:** AWS S3, Glue (Spark), Lambda, API Gateway, QuickSight  
-**Summary:** Pipeline comparing resumes to JDs; highlights missing skills and scores.  
-**Code/Demo:** *add link*
+## Resume Scorer & Skill Gap (AWS)
+**Timeline:** May 2025 – July 2025  
+**Stack:** AWS S3, Glue (Spark), Lambda, API Gateway, QuickSight • Python  
+**Summary:** Scores a resume against a job description and highlights missing keywords/skills.  
+- Built an end-to-end pipeline using **S3** ingestion and preprocessing in **Glue (Spark)**.  
+- Exposed inference via **Lambda + API Gateway**; simple React UI for submitting resumes & JDs and viewing results.  
+- Added **structured logging** and error categorization to speed up debugging and handover.  
+**Code/Demo:** *add your repo or demo link*
