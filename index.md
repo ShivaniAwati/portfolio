@@ -33,15 +33,21 @@ feature_row2:
     btn_label: "View project"
     btn_class: "btn--primary"
 
+
+
 ## Education
-- **M.S. in Information Systems**, The University of Texas at Arlington — *Completed*
-- **B.S. in Computer Science**, Shivaji University — *2021*
+<ul class="compact-list">
+  <li><strong>M.S. in Information Systems</strong>, The University of Texas at Arlington — <em>Completed</em></li>
+  <li><strong>B.S. in Computer Science</strong>, Shivaji University — <em>2021</em></li>
+</ul>
 
 ## Certifications & Publications
-- **Certifications:** IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies • Certified ‘Graduate Business Analyst’ from ‘The University of Texas at Arlington’*
-- **Publications/Posters:** Topic Modeling & Network Analysis of Cybersecurity/Privacy Literature (UTA Poster, 2025)
-- **Published research paper titled “Web-Controlled Robot” in the International Journal of Scientific Research in Engineering and Management (IJSREM)
-
+<ul class="compact-list">
+  <li><strong>Certifications: </strong>IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies 
+    • Certified ‘Graduate Business Analyst’ from ‘The University of Texas at Arlington’ </li>
+  <li><strong>Publications/Posters: </strong>Topic Modeling & Network Analysis of Cybersecurity/Privacy Literature (UTA Poster, 2025)
+Published research paper titled “Web-Controlled Robot” in the International Journal of Scientific Research in Engineering and Management (IJSREM) </li>
+</ul>
 
 ---
 
