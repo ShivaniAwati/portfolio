@@ -54,8 +54,8 @@ certs_row:
 
 <!-- Profile block -->
 <div style="display:flex; gap:18px; align-items:center; flex-wrap:wrap; margin: 1.25rem 0;">
-  <img src="/assets/img/shivani-photo.jpg" alt="Shivani Awati"
-       style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
+  <img src="{{ site.baseurl }}/assets/img/shivani-photo.jpg" alt="Shivani Awati"
+     style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
   <div>
     <strong>Shivani Awati</strong><br/>
     Data Analytics & Data Science — Python • SQL • Power BI • AWS • Oracle Cloud<br/>
