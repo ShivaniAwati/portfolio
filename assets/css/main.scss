@@ -2,3 +2,6 @@
 ---
 @import "minimal-mistakes/skins/aqua";
 @import "minimal-mistakes";
+.compact-list { list-style: none; padding-left: 0; margin: 0; }
+.compact-list li { margin: .25rem 0; }
+
