@@ -16,9 +16,32 @@ toc_sticky: true
 ---
 
 ## Predicting Drug Ratings (UTA)
-**Stack:** Python (scikit-learn), Pandas, SHAP  
-- Baselines vs. tuned tree models; feature importance explains drivers.  
-**Code/Demo:** *add link*
+**Timeline:** May 2024 – July 2024  
+
+Built supervised models on review metadata (and optional review text) to predict user-provided drug ratings.
+
+### Conclusion / Impact
+- Produced a model that reliably predicts drug ratings from available features, outperforming majority and linear baselines.
+- Model interpretation surfaced which inputs matter most (e.g., review language signals, condition/medicine metadata), guiding future data collection and UX.
+
+### Key Challenges
+- **Ordinal target:** Ratings are ordered (1–10). Plain multiclass ignores distance (predicting “9” when truth is “8” is better than predicting “3”).
+- **Class imbalance:** Fewer extreme ratings vs. many mid-range scores; needed class-aware validation and weighting.
+
+### Techniques Used
+- **Problem framings:**
+  - Multiclass classification (softmax) with class weights.
+  - Regression on the 1–10 scale to preserve ordinality; compared against ordinal classification (cumulative link / thresholded regressors).
+- **Models:** Decision Trees, Random Forests, Gradient Boosting; tuned via grid/random search.
+- **Validation:** Stratified k-fold CV; metrics included macro F1 / accuracy (classification) and MAE/RMSE (regression).
+- **Preprocessing:** Missing-value handling, categorical encoding (one-hot/target), feature scaling for regressors.
+
+### What else could be done
+- **Richer text signals:** Replace TF-IDF with sentence embeddings (SBERT/BERT) + a shallow classifier; compare to LightGBM + embeddings.
+- **Explainability:** SHAP for global/local explanations.
+
+**Code/Demo:** *add your repo or notebook link here*
+
 
 ---
 
