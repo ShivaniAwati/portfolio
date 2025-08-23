@@ -40,7 +40,7 @@ Built supervised models on review metadata (and optional review text) to predict
 - **Richer text signals:** Replace TF-IDF with sentence embeddings (SBERT/BERT) + a shallow classifier; compare to LightGBM + embeddings.
 - **Explainability:** SHAP for global/local explanations.
 
-**Code/Demo:** *add your repo or notebook link here*
+**Code:** <https://github.com/ShivaniAwati/drug-rating>
 
 
 ---
