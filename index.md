@@ -15,6 +15,7 @@ feature_row:
     btn_label: "View project"
     btn_class: "btn--primary"
   - title: "Predicting Drug Ratings (UTA)"
+    image_path: "{{ site.baseurl }}/assets/img/proj-drug-ratings.png"
     excerpt: "Supervised models on review metadata; compared classification vs regression; macro-F1/MAE tracked."
     url: /projects/#predicting-drug-ratings-uta
     btn_label: "View project"
