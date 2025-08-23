@@ -15,7 +15,7 @@ feature_row:
     btn_label: "View project"
     btn_class: "btn--primary"
   - title: "Predicting Drug Ratings (UTA)"
-    excerpt: "Supervised models on review metadata; feature importance explains drivers of ratings."
+    excerpt: "Supervised models on review metadata; compared classification vs regression; macro-F1/MAE tracked."
     url: /projects/#predicting-drug-ratings-uta
     btn_label: "View project"
     btn_class: "btn--primary"
