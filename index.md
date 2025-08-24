@@ -26,7 +26,6 @@ feature_row:
     url: /projects/#resume-scorer--skill-gap-aws
     btn_label: "View project"
     btn_class: "btn--primary"
----
 
 experience_row:
   - title: "Experience: HCM Weekly Hours Automation"
@@ -34,8 +33,8 @@ experience_row:
     url: "{{ site.baseurl }}/experience/#hcm-weekly-hours-automation"
     btn_label: "View experience"
     btn_class: "btn--secondary"
-    # Optional thumbnail if you have one:
-    # image_path: "{{ site.baseurl }}/assets/img/proj-hcm.png"
+
+---
 
 
 <!-- Profile block -->
@@ -52,6 +51,7 @@ experience_row:
 </div>
 
 {% include feature_row %}
+
 {% include feature_row id="experience_row" %}
 
 
