@@ -21,19 +21,22 @@ feature_row:
     url: /projects/#predicting-drug-ratings-uta
     btn_label: "View project"
     btn_class: "btn--primary"
-  - title: "HCM Weekly Hours Automation"
-    excerpt: "Oracle Cloud HCM extracts + SQL filters; automated weekly delivery; cut manual triage ~80%."
-    url: /projects/#hcm-weekly-hours-automation
-    btn_label: "View project"
-    btn_class: "btn--primary"
-
-feature_row2:
-  - title: "Resume Scorer & Skill Gap (AWS)"
+  -title: "Resume Scorer & Skill Gap (AWS)"
     excerpt: "S3 + Glue + Lambda + API Gateway + QuickSight. Scores resumes vs JDs and lists missing skills."
     url: /projects/#resume-scorer--skill-gap-aws
     btn_label: "View project"
     btn_class: "btn--primary"
 ---
+
+experience_row:
+  - title: "Experience: HCM Weekly Hours Automation"
+    excerpt: "Oracle HCM Extract + OIC schedule; filtered weekly hours; ~80% manual triage reduction."
+    url: "{{ site.baseurl }}/experience/#hcm-weekly-hours-automation"
+    btn_label: "View experience"
+    btn_class: "btn--secondary"
+    # Optional thumbnail if you have one:
+    # image_path: "{{ site.baseurl }}/assets/img/proj-hcm.png"
+
 
 <!-- Profile block -->
 <div style="display:flex; gap:18px; align-items:center; flex-wrap:wrap; margin: 1.25rem 0;">
@@ -49,7 +52,8 @@ feature_row2:
 </div>
 
 {% include feature_row %}
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="experience_row" %}
+
 
 ## Education
 - **M.S. in Information Systems**, The University of Texas at Arlington — *Completed*
