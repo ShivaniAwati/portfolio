@@ -3,6 +3,7 @@ layout: single
 title: "Experience"
 permalink: /experience/
 toc: false
+classes: wide
 ---
 
 {% for job in site.data.experience %}
