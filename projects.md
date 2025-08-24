@@ -6,17 +6,36 @@ toc: true
 toc_sticky: true
 ---
 
-## Topic Modeling on Cybersecurity & Privacy
-**Stack:** Python, SBERT, UMAP, HDBSCAN, c-TF-IDF, NetworkX/Gephi  
-**Summary:** Transformer-based topic discovery for ~1,000 papers.  
-- SBERT embeddings → UMAP (n_neighbors=15, metric='cosine') → HDBSCAN (min_cluster_size=10) → c-TF-IDF.  
-- Silhouette ≈ **0.68**, coherence ≈ **0.74**; author network (betweenness centrality).  
-**Code/Demo:** *add link*
+## Topic Modeling for Research Articles (UTA)
+**Timeline:** October 2024 – December 2024  
+
+![Topic Modeling Overview]({{ site.baseurl }}/assets/img/proj-topic-modeling.png)
+
+Designed NLP pipelines to extract themes from cybersecurity/privacy papers and mapped co-authorship networks to highlight influential authors.
+
+### Conclusion / Impact
+- Extracted coherent themes from cybersecurity/privacy literature and surfaced recurring topics.
+- Mapped co-authorship networks, identifying influential authors and collaboration clusters (domain leaders).
+
+### Key Challenges
+- **Choosing k (topics):** Balancing interpretability vs. granularity, avoiding redundant/overlapping topics.
+- **Domain vocabulary:** Acronyms/jargon and fast-evolving terminology.
+
+### Techniques Used
+- **Topic models:** LDA, LSI, NMF, and transformer-based pipelines (BERT, BUNKA).
+- **Network analysis:** Co-authorship graph construction, degree/betweenness centrality, and visualization (VOSviewer).
+
+### What else could be done
+- **LLM-assisted labeling:** Use an LLM to propose human-readable topic labels and summaries; validate with SMEs.
+
+**Code/Demo:**<https://github.com/ShivaniAwati/topic-modeling-research-articles>
 
 ---
 
 ## Predicting Drug Ratings (UTA)
 **Timeline:** May 2024 – July 2024  
+
+![Topic Modeling Overview]({{ site.baseurl }}/assets/img/proj-drug-ratings.png)
 
 Built supervised models on review metadata (and optional review text) to predict user-provided drug ratings.
 
