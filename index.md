@@ -7,7 +7,7 @@ header:
   overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.15
   # overlay_image: "{{ site.baseurl }}/assets/img/hero-gradient.jpg"
-
+---
 feature_row:
   - title: "Topic Modeling for Research Articles (UTA)"
     image_path: "{{ site.baseurl }}/assets/img/proj-topic-modeling.png"
