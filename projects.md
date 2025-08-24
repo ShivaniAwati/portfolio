@@ -65,14 +65,6 @@ Built supervised models on review metadata (and optional review text) to predict
 
 ---
 
-## HCM Weekly Hours Automation
-**Stack:** Oracle Cloud HCM, Oracle SQL/PLSQL, OIC  
-- Targeted HCM Extract + integration; automated weekly delivery.  
-- **Impact:** reduced manual triage ~**80%**.  
-**Notes:** *add link*
-
----
-
 ## Resume Scorer & Skill Gap (AWS)
 **Timeline:** May 2025 – July 2025  
 **Stack:** AWS S3, Glue (Spark), Lambda, API Gateway, QuickSight • Python  
