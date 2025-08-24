@@ -9,9 +9,10 @@ header:
   # overlay_image: "{{ site.baseurl }}/assets/img/hero-gradient.jpg"
 
 feature_row:
-  - title: "Topic Modeling on Cybersecurity & Privacy"
-    excerpt: "SBERT → UMAP → HDBSCAN + c-TF-IDF. Coherence ≈0.74; author networks & dashboards."
-    url: /projects/#topic-modeling-on-cybersecurity--privacy
+  - title: "Topic Modeling for Research Articles (UTA)"
+    image_path: "{{ site.baseurl }}/assets/img/proj-topic-modeling.png"
+    excerpt: "LDA/LSI/NMF + transformer pipeline; VOSviewer network—found coherent themes and influential authors."
+    url: /projects/#topic-modeling-for-research-articles-uta
     btn_label: "View project"
     btn_class: "btn--primary"
   - title: "Predicting Drug Ratings (UTA)"
