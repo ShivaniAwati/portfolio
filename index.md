@@ -21,7 +21,7 @@ feature_row:
     url: /projects/#predicting-drug-ratings-uta
     btn_label: "View project"
     btn_class: "btn--primary"
-  -title: "Resume Scorer & Skill Gap (AWS)"
+  - title: "Resume Scorer & Skill Gap (AWS)"
     excerpt: "S3 + Glue + Lambda + API Gateway + QuickSight. Scores resumes vs JDs and lists missing skills."
     url: /projects/#resume-scorer--skill-gap-aws
     btn_label: "View project"
