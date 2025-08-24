@@ -6,7 +6,7 @@ toc: false
 ---
 
 {% for job in site.data.experience %}
-<div class="exp-item">
+<div class="exp-item" id="{{ job.slug | default: job.company | slugify }}">
   <div class="exp-role">{{ job.role }}</div>
   <div class="exp-meta">{{ job.company }} • {{ job.location }} • {{ job.start }} – {{ job.end }}</div>
   <ul class="compact-list">
