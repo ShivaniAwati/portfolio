@@ -2,8 +2,9 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-toc: true
+toc: false
 toc_sticky: true
+classes: wide
 ---
 
 ## Topic Modeling for Research Articles (UTA)
