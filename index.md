@@ -32,7 +32,7 @@ feature_row:
 experience_row:
   - title: "Experience: HCM Weekly Hours Automation"
     excerpt: "Oracle HCM Extract + OIC schedule; filtered weekly hours; ~80% manual triage reduction."
-    url: "{{ site.baseurl }}/experience/#hcm-weekly-hours-automation"
+    url: /experience/#hcm-weekly-hours-automation
     btn_label: "View experience"
     btn_class: "btn--secondary"
 
