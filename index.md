@@ -22,10 +22,12 @@ feature_row:
     btn_label: "View project"
     btn_class: "btn--primary"
   - title: "Resume Scorer & Skill Gap (AWS)"
+    # image_path: "{{ site.baseurl }}/assets/img/proj-aws-resume-scorer.png"   # uncomment if you added an image
     excerpt: "S3 + Glue + Lambda + API Gateway + QuickSight. Scores resumes vs JDs and lists missing skills."
     url: /projects/#resume-scorer--skill-gap-aws
     btn_label: "View project"
     btn_class: "btn--primary"
+
 
 experience_row:
   - title: "Experience: HCM Weekly Hours Automation"
