@@ -67,6 +67,9 @@ Built supervised models on review metadata (and optional review text) to predict
 
 ## Resume Scorer & Skill Gap (AWS)
 **Timeline:** May 2025 – July 2025  
+
+![Topic Modeling Overview]({{ site.baseurl }}/assets/img/proj-aws-resume-scorer.png)
+
 **Stack:** AWS S3, Glue (Spark), Lambda, API Gateway, QuickSight • Python • React
 
 **Summary:** Scores a resume against a job description and highlights missing keywords/skills. Built an end-to-end serverless pipeline with scalable preprocessing and a lightweight UI for submissions.
