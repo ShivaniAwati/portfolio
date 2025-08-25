@@ -58,9 +58,10 @@ experience_row:
 
 
 ## Education
-- **M.S. in Information Systems**, The University of Texas at Arlington — *Completed*
+- **M.S. in Information Systems**, The University of Texas at Arlington — *2025*
 - **B.S. in Computer Science**, Shivaji University — *2021*
 
 ## Certifications & Publications
 - **Certifications:** IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies • Certified “Graduate Business Analyst” (UTA)
+  • Oracle Cloud Infrastructure 2023 AI Certified foundations Associate
 - **Publications/Posters:** Topic Modeling & Network Analysis of Cybersecurity/Privacy (UTA Poster, 2025); “Web-Controlled Robot,” *IJSREM*
