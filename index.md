@@ -45,7 +45,7 @@ experience_row:
        style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
   <div>
     <strong>Shivani Awati</strong><br/>
-    Data Analytics & Data Science — Python • SQL • Power BI • AWS • Oracle Cloud<br/>
+    Data Analytics & Data Science — Python • SQL • Power BI • AWS • Oracle Cloud  • Tableau  • Microsoft Excel <br/>
     <a href="mailto:Shivaniawati87@gmail.com"><i class="fas fa-envelope"></i> Shivaniawati87@gmail.com</a> •
     <a href="https://www.linkedin.com/in/shivani-awati"><i class="fab fa-linkedin"></i> LinkedIn</a> •
     <a href="https://github.com/shivaniawati"><i class="fab fa-github"></i> GitHub</a>
@@ -62,6 +62,6 @@ experience_row:
 - **B.S. in Computer Science**, Shivaji University — *2021*
 
 ## Certifications & Publications
-- **Certifications:** IBM Data Science (Coursera) • Oracle Cloud Certified in Database Migration and Technologies • Certified “Graduate Business Analyst” (UTA)
-  • Oracle Cloud Infrastructure 2023 AI Certified foundations Associate
-- **Publications/Posters:** Topic Modeling & Network Analysis of Cybersecurity/Privacy (UTA Poster, 2025); “Web-Controlled Robot,” *IJSREM*
+- **Certifications:** IBM Data Science (Coursera) <br/> • Oracle Cloud Certified in Database Migration and Technologies <br/> • Certified “Graduate Business Analyst” (UTA)
+  <br/> • Oracle Cloud Infrastructure 2023 AI Certified foundations Associate
+- **Publications:** Topic Modeling & Network Analysis of Cybersecurity/Privacy (UTA Poster, 2025) <br/> • “Web-Controlled Robot,” *IJSREM*
