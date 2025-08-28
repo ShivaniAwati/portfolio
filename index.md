@@ -2,11 +2,11 @@
 layout: splash
 # title: "Shivani Awati"
 subtitle: "Data Analytics • Data Science • Cloud (AWS, Oracle)"
-excerpt: "Turning complex datasets into clean insights, reliable pipelines, and decision-ready dashboards."
+# excerpt: "Turning complex datasets into clean insights, reliable pipelines, and decision-ready dashboards."
 header:
   overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.35
-  overlay_image: "{{ site.baseurl }}/assets/img/banner.png"
+  overlay_image: "{{ site.baseurl }}/assets/img/Banner.png"
 
 feature_row:
   - title: "Topic Modeling for Research Articles (UTA)"
