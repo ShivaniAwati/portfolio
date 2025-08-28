@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Shivani Awati"
+# title: "Shivani Awati"
 subtitle: "Data Analytics • Data Science • Cloud (AWS, Oracle)"
 excerpt: "Turning complex datasets into clean insights, reliable pipelines, and decision-ready dashboards."
 header:
