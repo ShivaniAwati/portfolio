@@ -1,7 +1,5 @@
 ---
 layout: splash
-title: "Shivani Awati"
-subtitle: "Data Analytics • Data Science • Cloud (AWS, Oracle)"
 excerpt: "Turning complex datasets into clean insights, reliable pipelines, and decision-ready dashboards."
 header:
   overlay_color: "#0ea5e9"   # sky blue
@@ -44,7 +42,7 @@ experience_row:
   <img src="{{ site.baseurl }}/assets/img/shivani-photo.jpg" alt="Shivani Awati"
        style="width:96px;height:96px;border-radius:50%;object-fit:cover;">
   <div>
-    # <strong>Shivani Awati</strong><br/>
+    <strong>Shivani Awati</strong><br/>
     Data Analytics & Data Science — Python • SQL • Power BI • AWS • Oracle Cloud<br/>
     <a href="mailto:Shivaniawati87@gmail.com"><i class="fas fa-envelope"></i> Shivaniawati87@gmail.com</a> •
     <a href="https://www.linkedin.com/in/shivani-awati"><i class="fab fa-linkedin"></i> LinkedIn</a> •
