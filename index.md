@@ -6,7 +6,7 @@ excerpt: "Turning complex datasets into clean insights, reliable pipelines, and 
 header:
   overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.35
-  overlay_image: "{{ site.baseurl }}/assets/img/hero-data.png"
+  overlay_image: "{{ site.baseurl }}/assets/img/hero-banner.png"
 
 feature_row:
   - title: "Topic Modeling for Research Articles (UTA)"
