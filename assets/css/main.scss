@@ -1,4 +1,4 @@
-o-----
+-----
 ---
 @import "minimal-mistakes/skins/aqua";
 @import "minimal-mistakes";
@@ -26,12 +26,14 @@ o-----
   background: #ffffff;  /* avoid dark embed area */
 }
 .page__hero--overlay {
-  background-size: cover;       /* covers the container fully */
-  background-position: center;  /* keeps it centered */
+  background-image: url('/assets/img/Banner.png'); /* fallback */
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  width: 100%;                  /* full width */
-  height: 600px;                /* adjust to your desired height */
-  max-width: 1536px;            /* optional max width */
-  max-height: 1024px;           /* optional max height */
+  width: 100%;
+  height: 600px;             /* match your front matter height */
+  max-width: 1536px;
+  max-height: 1024px;
 }
+
 
