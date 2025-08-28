@@ -5,6 +5,8 @@ header:
   overlay_color: "#0ea5e9"   # sky blue
   overlay_filter: 0.35
   overlay_image: "{{ site.baseurl }}/assets/img/Banner.png"
+  height: 600px           # optional, for SCSS reference
+  max_width: 1536px
 
 feature_row:
   - title: "Topic Modeling for Research Articles (UTA)"
