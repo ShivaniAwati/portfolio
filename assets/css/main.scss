@@ -25,4 +25,9 @@
   border: 0;
   background: #ffffff;  /* avoid dark embed area */
 }
+.page__hero--overlay {
+  background-size: cover;     /* ensures image covers the area */
+  background-position: center; /* keeps it centered */
+  background-repeat: no-repeat;
+}
 
