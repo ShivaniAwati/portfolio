@@ -3,9 +3,9 @@
   location: Pune, India
   start: Sep 2021
   end: Nov 2023
-  slug: hcm-weekly-hours-automation
+  slug: Oracle HCM
   bullets:
-    - Enhanced data management in **Oracle Cloud HCM** using **SQL/PLSQL** for retrieval, analysis, and uploads.
-    - Built targeted **HCM Extracts** and integrations; automated weekly hours reports; cut manual triage ~**80%**.
-    - Partnered with stakeholders in Agile cycles; delivered change requests and knowledge transfer docs.
-  tools: [Oracle Cloud HCM, SQL, PLSQL, OIC, Power BI, Tableau]
+    - Enhanced data management in Oracle Cloud HCM using SQL for retrieval, analysis, and uploads.
+    - Built targeted HCM Extracts and integrations, automated weekly hours reports.
+    - Partnered with stakeholders in Agile cycles, delivered change requests and knowledge transfer docs.
+  tools: [Oracle Cloud HCM , SQL, PLSQL, OIC, Power BI, Tableau]
