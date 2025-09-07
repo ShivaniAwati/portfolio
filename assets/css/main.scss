@@ -25,28 +25,4 @@
   border: 0;
   background: #ffffff;  /* avoid dark embed area */
 }
-.page__hero--overlay {
-  background-image: url('/assets/img/Banner.png'); /* fallback */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 600px;             /* match your front matter height */
-  max-width: 1536px;
-  max-height: 1024px;
-}
-/* Move TOC to right-hand sidebar when using classes: wide */
-.page__content > nav.toc {
-  position: sticky;
-  top: 6rem; /* adjust for your header */
-  float: right;
-  clear: right;
-  width: 18rem;   /* adjust width as needed */
-  margin: 0 0 2rem 2rem; /* space between TOC and content */
-  background: #f9f9f9;   /* optional: light background */
-  padding: 1rem;
-  border-radius: 8px;
-  font-size: 0.9rem;
-}
-
 
