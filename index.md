@@ -63,5 +63,5 @@ experience_row:
 
 ## Certifications & Publications
 - **Certifications:** IBM Data Science (Coursera) <br/> • Oracle Cloud Certified in Database Migration and Technologies <br/> • Certified “Graduate Business Analyst” (UTA)
-  <br/> • Oracle Cloud Infrastructure 2023 AI Certified foundations Associate
+  <br/> • Oracle Cloud Infrastructure 2023 AI Certified foundations Associate <br/> • Oracle Fusion Cloud Applications HCM Process Essentials Certified
 - **Publications:** Topic Modeling & Network Analysis of Cybersecurity/Privacy (UTA Poster, 2025) <br/> • “Web-Controlled Robot,” *IJSREM*
