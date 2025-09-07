@@ -1,11 +1,18 @@
 - company: Capgemini
   role: Senior Data Analyst
   location: Pune, India
-  start: Sep 2021
-  end: Nov 2023
   slug: Oracle HCM
   bullets:
     - Enhanced data management in Oracle Cloud HCM using SQL for retrieval, analysis, and uploads.
     - Built targeted HCM Extracts and integrations, automated weekly hours reports.
     - Partnered with stakeholders in Agile cycles, delivered change requests and knowledge transfer docs.
-  tools: [Oracle Cloud HCM • SQL • PLSQL • OIC • Power BI • Tableau • BIP Reports • OTBI Reports]
+    - Enhanced data management in Oracle Cloud HCM by leveraging SQL/PLSQL for efficient data retrieval, analysis, and mass uploads.
+    - Designed and developed targeted HCM Extracts and outbound integrations to payroll vendors, benefits providers, and downstream ERP systems.
+    - Automated recurring reports, including weekly hours and workforce analytics, improving accuracy and reducing manual effort.
+    - Delivered custom BI Publisher (BIP) and OTBI reports to meet business requirements across Core HR, Payroll, and Compensation modules.
+    - Built and maintained Oracle Integration Cloud (OIC) integrations, enabling seamless data exchange between Oracle ERP and HCM Cloud as well as third-party applications.
+    - Supported end-to-end ERP and HCM implementations, including requirement gathering, configuration, testing (SIT/UAT), and production support.
+    - Partnered with HR and Finance stakeholders in Agile delivery cycles, managing change requests, performing defect remediation, and providing knowledge transfer documentation.
+    - Created interactive dashboards and KPIs using Power BI and Tableau, providing decision-ready insights for business leaders.
+    - Ensured compliance and security by applying PII data masking and encryption in Extracts and integrations, following GDPR/HIPAA standards.
+  tools: [Oracle Cloud HCM • Core HR • Compensation • ERP Integrations • SQL • PLSQL • Oracle Integration Cloud (OIC) • HCM Extracts • BIP Reports • OTBI Reports • HDL • Power BI • Tableau]
