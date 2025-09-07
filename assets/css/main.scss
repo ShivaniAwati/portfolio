@@ -35,14 +35,18 @@
   max-width: 1536px;
   max-height: 1024px;
 }
-.toc {
-  float: left;
-  width: 20%;   /* adjust width */
-  margin-right: 2rem;
-}
-.page__content {
+/* Move TOC to right-hand sidebar when using classes: wide */
+.page__content > nav.toc {
+  position: sticky;
+  top: 6rem; /* adjust for your header */
   float: right;
-  width: 75%;
+  clear: right;
+  width: 18rem;   /* adjust width as needed */
+  margin: 0 0 2rem 2rem; /* space between TOC and content */
+  background: #f9f9f9;   /* optional: light background */
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
 }
 
 
