@@ -5,6 +5,8 @@ permalink: /projects/
 toc: true
 toc_sticky: true
 classes: wide
+sidebar:
+  nav: "projects"
 ---
 
 ## Topic Modeling for Research Articles (UTA)
