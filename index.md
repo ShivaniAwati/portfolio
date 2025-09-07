@@ -31,7 +31,7 @@ feature_row:
 
 experience_row:
   - title: "Experience: HCM Weekly Hours Automation"
-    excerpt: "Oracle HCM Extract + OIC schedule; filtered weekly hours; ~80% manual triage reduction."
+    excerpt: "Hands-on experience in Oracle Cloud HCM and ERP, specializing in integrations, data management, and reporting, with a proven track record of delivering automated solutions and business insights."
     url: /experience/#hcm-weekly-hours-automation
     btn_label: "View experience"
     btn_class: "btn--secondary"
