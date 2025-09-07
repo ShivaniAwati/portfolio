@@ -35,5 +35,14 @@
   max-width: 1536px;
   max-height: 1024px;
 }
+.toc {
+  float: left;
+  width: 20%;   /* adjust width */
+  margin-right: 2rem;
+}
+.page__content {
+  float: right;
+  width: 75%;
+}
 
 
