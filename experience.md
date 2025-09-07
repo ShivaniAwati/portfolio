@@ -9,7 +9,7 @@ classes: wide
 {% for job in site.data.experience %}
 <div class="exp-item" id="{{ job.slug | default: job.company | slugify }}">
   <div class="exp-role">{{ job.role }}</div>
-  <div class="exp-meta">{{ job.company }} • {{ job.location }} • {{ job.start }} – {{ job.end }}</div>
+  <div class="exp-meta">{{ job.company }} • {{ job.location }} </div>
   <ul class="compact-list">
     {% for b in job.bullets %}
     <li>{{ b }}</li>
